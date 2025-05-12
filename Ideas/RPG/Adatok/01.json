@@ -1,0 +1,9 @@
+{
+    "Story": "Story",
+    "Options": [
+        {
+            "To": 2,
+            "Fatal": false
+        }
+    ]
+}
