@@ -28,6 +28,15 @@ cd python-tananyag
 Minden tananyag és ahoz köthető anyagot a Tananyag mappán belül találsz.
 Itt heti anyagra bontva találod meg az állandó frissítés alatt álló anyagot.
 
+### Feladatok
+
+A Feladatok mappán belül kidolgozott egyszerű feladatokat találsz megoldásokkal. A megoldások kommentekkel vannak ellátva az olvashatóság és érthetőség miatt. **Erősen ajánlot elöszőr a feladatok megoldása saját ötletekkel.**
+
+### Érettségi
+
+Az érettségi mappában találhatsz éretségire szánt feladatokat és megoldásokat.
+**Ez feltöltés alatt áll éppen.**
+
 ---
 
 ## 🧭 0. Bevezetés
