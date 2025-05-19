@@ -20,6 +20,13 @@
 git clone https://github.com/Dungscer/PythonTananyag.git
 cd python-tananyag
 ```
+---
+## Mit hol találsz
+
+### Tananyag
+
+Minden tananyag és ahoz köthető anyagot a Tananyag mappán belül találsz.
+Itt heti anyagra bontva találod meg az állandó frissítés alatt álló anyagot.
 
 ---
 
@@ -27,69 +34,6 @@ cd python-tananyag
 - **Telepítés**: Python + VS Code vagy Thonny
 - **Első program**: `print("Hello, világ!")`
 - **Fogalmak**: értelmező, fájlok futtatása, `.py` kiterjesztés
-
----
-
-## 📘 1. Alapok
-**Témák:**
-- Változók, típusok (`int`, `float`, `str`, `bool`)
-- Műveletek: `+`, `-`, `*`, `/`, `//`, `%`
-- `input()` és `type()` függvény
-
-**Feladatok:**
-- Írj programot, ami bekéri a neved, és köszön neked!
-- Készíts számológépet két számra: összeadás, kivonás, szorzás, osztás
-
----
-
-## 🔁 2. Elágazások és ciklusok
-**Témák:**
-- `if`, `elif`, `else`
-- `while`, `for`
-- Logikai műveletek: `and`, `or`, `not`
-
-**Feladatok:**
-- Írj programot, ami eldönti, hogy egy szám páros-e!
-- Szorzótábla generátor
-- Számkitaláló játék (random szám 1-100 között)
-
----
-
-## 🔢 3. Listák és ciklusok
-**Témák:**
-- Listák: létrehozás, hozzáadás, törlés, módosítás
-- Iterálás listán `for` ciklussal
-- `range()`, `len()`
-
-**Feladatok:**
-- Névlista kezelése: név hozzáadása, törlése
-- Jegyek átlaga számítása
-- Fordított lista kiírása
-
----
-
-## 📦 4. Függvények
-**Témák:**
-- Függvények írása `def` kulcsszóval
-- Paraméterek, visszatérési érték
-- Lokális és globális változók
-
-**Feladatok:**
-- Írj függvényt, ami visszaadja 2 szám összegét!
-- Négyzetek listája egy függvénnyel
-- Fibonacci sorozat generátor
-
----
-
-## 🗂️ 5. Szótárak, fájlkezelés (egyszerűen)
-**Témák:**
-- Szótárak alapjai: kulcs-érték párok
-- Fájl megnyitása, írás, olvasás `with open()` segítségével
-
-**Feladatok:**
-- Név-jegy szótár kezelése
-- Szótárból adat mentése fájlba
-- Napi napló írása fájlba
 
 ---
 
@@ -105,7 +49,7 @@ cd python-tananyag
 - [W3Schools Python](https://www.w3schools.com/python/)
 - [Python kezdőknek magyarul – prog.hu fórum](https://prog.hu/tartalom/python)
 - [Hivatalos Python dokumentáció (angol)](https://docs.python.org/3/)
-
+- [Infopy](https://infopy.eet.bme.hu/)
 ---
 
 Ez a repo azért jött létre, hogy állandó tananyaggal szólgájlon azoknak akik python nyelv iránt vagy a programozás iránt érdeklődnek. Ebben a repoban összegyűjtöm átszerkesztve vagy teljesen lemásolva azokat az anyagokat amiknek hála tanultam meg programozni vagy vezetek be a python programozási nyelvbe.
