@@ -1,0 +1,1 @@
+This folder is contain the documents files. Like photos.
