@@ -20,9 +20,28 @@ for karakter in teljesitmeny:
             f += 2
         case "K":
             k += 10
+# feladat 2
+osszeg = u + g + f + k
+print(f"A felhasználó aktivítása: {osszeg} km")
 
+# feladat 3
 
+# mivel a feladatban utána a jutalommal kell számolni ezért 
+# egyszerűbb ha egy külön változóban tartjuk
+bonusz = 0 
+if u > 0 and g > 0 and f > 0 and k > 0:
+    bonusz = 10
+    print("Bravó! Jutalma még 10 km.")
+else:
+    print("Nem jár jutalom.")
 
+# feladat 4
+teljes = osszeg + bonusz
+print(f"Összesen megtett {teljes} km")
+if teljes >= 40:
+    print("Gratulálok, kihívás teljesítve!")
+else:
+    print("Legközelebb sikerül!")
 
 
 
