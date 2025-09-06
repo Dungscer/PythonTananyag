@@ -42,3 +42,23 @@ a leírtaknak megfelelnek.
 
 Kérje be és tárolja el a felhasználó heti aktivitását! Feltételezheti, hogy a megadott sorozat
 hossza 250 karakternél rövidebb. 
+
+### 2. feladat
+
+Számítsa ki és a mintának megfelelően jelenítse meg a felhasználó aktivitását, azaz a héten
+megtett távolságok összegét!
+
+### 3. feladat
+
+Amennyiben a felhasználó mindegyik mozgásformát űzte az adott héten, akkor a heti
+teljesítményéhez 10 km pluszt kap! Ha a felhasználó teljesítette ezt a feltételt, írassa ki,
+hogy `„Bravó! Jutalma még 10 km.”`, különben pedig a `„Nem jár jutalom.”`
+üzenetet jelenítse meg! 
+
+### 4. feladat
+
+Írassa ki a képernyőre a felhasználó által gyűjtött kilométerek számát, amely a megtett heti
+távolságérték és a kapott jutalomkilométerek összege! Ha a gyűjtött kilométerek elérik
+a heti kihívásnak megfelelő 40 km-t, akkor a `„Gratulálok, kihívás teljesítve!”`
+üzenetet jelenítse meg, a minta szerint! Amennyiben nem teljesítette a kitűzött célt,
+a `„Legközelebb sikerül!”` üzenetet jelenítse meg! 
