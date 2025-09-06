@@ -35,7 +35,8 @@ A Feladatok mappán belül kidolgozott egyszerű feladatokat találsz megoldáso
 ### Érettségi
 
 Az érettségi mappában találhatsz éretségire szánt feladatokat és megoldásokat.
-**Ez feltöltés alatt áll éppen.**
+**Ezek feltöltése állandóan bővül.**
+A megoldásokat erősen kommentelve vannak az érthetőség véget.
 
 ---
 
